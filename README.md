@@ -150,6 +150,7 @@ The project demonstrates how **content-based filtering and NLP techniques** can 
 ## 👨‍💻 Author
 
 **Bansari Nimbalkar**
+
 Computer Science & Engineering (Data Science)
 
 ---
